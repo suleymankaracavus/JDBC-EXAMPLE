@@ -1,0 +1,8 @@
+create database demo1;
+
+CREATE TABLE `demo`.`users` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `name` VARCHAR(120) NULL,
+  `email` VARCHAR(120) NULL,
+  `country` VARCHAR(120) NULL,
+  PRIMARY KEY (`id`));
