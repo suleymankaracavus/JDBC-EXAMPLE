@@ -1,0 +1,1 @@
+SELECT * FROM proje2.category;
