@@ -15,7 +15,7 @@
         </configuration>
       </plugin>
     </plugins> </build>
- <properties><mysql.version>8.0.20</mysql.version>
+ <properties><mysql.version>8.0.28</mysql.version>
  <log4j.version>2.13.2</log4j.version>
  </properties>
   <dependencies>
